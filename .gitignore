@@ -3,3 +3,4 @@
 *.log
 tmp/
 _cache/
+dist-newstyle/
