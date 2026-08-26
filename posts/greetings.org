@@ -1,0 +1,9 @@
+---
+title: First Hakyll Setup
+date: 2026-08-26
+---
+
+This was first time setting up hakyll.
+
+I like the default layout don't want to fiddle much for now.
+Later maybe, when I have energy to change things but for now it looks fine.
