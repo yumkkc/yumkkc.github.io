@@ -1,0 +1,15 @@
+#+title: Learning from Cis194
+
+I have been trying to learn haskell for quite a while. I tried few years back with mocc.fi and failed due to varous reasons, prominent being getting a job and having other interets. I came back this year firm to learn it, and picked up highly suggested CIS194 Spring 13 by Brent Yorgey.
+
+I did every exercises except one optional one in lazy chapter week. This was one of the best resource for haskell. I throughly enjoyed it a lot. The best part of this was the exercises. These were on point, precise and interesting. There were many challenging exercises but not too hard to not be able to do it. It was balanced. The chapter about Applicative was the best. I feel Monad chapter could have been better along with its exercies, but with the adundance of monad tutorial we have in the internet, its okay.
+
+For the Monad tutorial, I loved "You Could Have Invented Monads!" https://github.com/dpiponi/StableBlog/tree/main/YouCouldHaveInvented.
+
+Also, 2016 Fall Edition of CIS194 also looks interesting especially the first 4 chapters about building a Sokoban game in Haskell with CodeWorld API package/platform. I tried it and was interesting but did not finish it. I may go back to it sometime.
+
+I still have a lot to learn. I am tackling "Write yourself a Scheme in 48 hours" along with some tutorial/paper on Monad Transformers mainly "Monad Transformers Step by Step"
+
+
+Link to CIS194: https://www.cis.upenn.edu/~cis1940/spring13/
+Link to CIS195 Solutions: https://github.com/yumkkc/Haskell-cis194-spring-13
