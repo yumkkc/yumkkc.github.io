@@ -1,4 +1,7 @@
-#+title: Learning from Cis194
+---
+title: Learning Haskell from CIS194
+date: 2026-09-15
+---
 
 I have been trying to learn haskell for quite a while. I tried few years back with mocc.fi and failed due to varous reasons, prominent being getting a job and having other interets. I came back this year firm to learn it, and picked up highly suggested CIS194 Spring 13 by Brent Yorgey.
 
