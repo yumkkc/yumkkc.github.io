@@ -3,9 +3,9 @@ title: Learning Haskell from CIS194
 date: 2026-09-15
 ---
 
-I have been trying to learn haskell for quite a while. I tried few years back with mocc.fi and failed due to varous reasons, prominent being getting a job and having other interets. I came back this year firm to learn it, and picked up highly suggested CIS194 Spring 13 by Brent Yorgey.
+I have been trying to learn haskell for quite a while. I tried few years back with mocc.fi and failed due to various reasons, prominent being getting a job and having other interets. I came back this year firm to learn it, and picked up a highly suggested CIS194 Spring 13 by Brent Yorgey.
 
-I did every exercises except one optional one in lazy chapter week. This was one of the best resource for haskell. I throughly enjoyed it a lot. The best part of this was the exercises. These were on point, precise and interesting. There were many challenging exercises but not too hard to not be able to do it. It was balanced. The chapter about Applicative was the best. I feel Monad chapter could have been better along with its exercies, but with the adundance of monad tutorial we have in the internet, its okay.
+I did every exercises except the optional one in lazy chapter week. This was one of the best resource for Haskell. The best part of this were the exercises. These were on point, precise and interesting. There were many challenging exercises but not too hard to not be able to do it. It was balanced. The chapter about Applicative was the best. I feel Monad chapter could have been better along with its exercies, but with the adundance of monad tutorial we have in the internet, its okay.
 
 For the Monad tutorial, I loved "You Could Have Invented Monads!" https://github.com/dpiponi/StableBlog/tree/main/YouCouldHaveInvented.
 
